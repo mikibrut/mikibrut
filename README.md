@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">I'm a full-stack web developer with a background as a luthier and a passion for product design. Drawing from my experience in crafting musical instruments, I bring a keen eye for detail and a deep appreciation for art and design to my work. I studied full stack web development focused in technologies such as JavaScript, React.js, Express.js, Node.js, MongoDB, HTML, CSS and Postman. <br><br>My expertise lies primarily in front-end development. I strive to create user-friendly and visually appealing digital experiences by combining my technical skills with my creativity and attention to detail.</p>
+<p align="left">Full stack engineer with more than 3 years of experience.
+My main skills are building MERN (Mongo, Express.js, React.js and Node.js) applications.
+Throughout my career I have acted as a developer with multi-disciplinary teams to build applications from scratch to production for several industries.</p>
 
 ###
 
