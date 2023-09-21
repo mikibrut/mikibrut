@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Full stack engineer with more than 3 years of experience.
+<p align="left">Full stack engineer with more than 2 years of experience.
 My main skills are building MERN (Mongo, Express.js, React.js and Node.js) applications.
 Throughout my career I have acted as a developer with multi-disciplinary teams to build applications from scratch to production for several industries.</p>
 
